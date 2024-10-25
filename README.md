@@ -4,8 +4,8 @@
     <h1>Buy Game Currency</h1>
     <div class="currency-container">
         <div class="currency-item">
-            <h2>100 Coins</h2>
-            <p>$0.99</p>
+            <h2>1000 gold</h2>
+            <p>$10</p>
             <button class="buy-btn">Buy Now</button>
         </div>
         <div class="currency-item">
