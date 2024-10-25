@@ -1,5 +1,4 @@
 
-</head>
 <body>
     <h1>Buy Game Currency</h1>
     <div class="currency-container">
